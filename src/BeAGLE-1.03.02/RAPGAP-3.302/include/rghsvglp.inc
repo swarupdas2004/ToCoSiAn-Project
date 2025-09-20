@@ -1,3 +1,0 @@
-      Integer         NPOVEG,NUMINT,NPHYP
-      COMMON /HSVGLP/ NPOVEG,NUMINT,NPHYP
-
